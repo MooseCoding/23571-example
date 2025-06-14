@@ -1,8 +1,8 @@
-# READ:
+# Read
 
-## ALL THE CODE YOU WILL WANT WILL BE IN THE /TEAMCODE/SRC/MAIN/JAVA/ORG/FIRSTINSPIRES/TEAMCODE 
+All the code that we will be looking at is located at <https://github.com/MooseCoding/23571-example/tree/main/road-runner-quickstart-master/TeamCode/src/main/java/org/firstinspires/ftc/teamcode>
 
-### TELEOP
+# TeleOP
 
 Teleop code will be located inside the Dairy folder, there will be some documentation I'll make for this so do not worry if its confusing. Main structure is as follows: 
 
@@ -17,6 +17,6 @@ Util contains our waiter (it allows us to set timers throughout our code) and ot
 DairyMain.kt, or Main.kt or MainOpmode or the like will be the MAIN program we run whenever we run TeleOP. IT HAS EVERYTIHNG WE NEED AND NOTHING WE DON'T.
 
 
-### AUTO
+### Auto
 
 I don't really know, I'ma be honest. I'll convert it to actual official updated pedro, but rn its a mix of weird older pedro versions and a lot of hacky fixes.
