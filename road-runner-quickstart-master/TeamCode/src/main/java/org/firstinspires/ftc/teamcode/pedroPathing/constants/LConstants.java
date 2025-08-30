@@ -13,7 +13,6 @@ public class LConstants { // This is how we change ThreeWheelConstants.
     static public double strafeX = -7.5;
 
     static {
-
         PinpointConstants.forwardY = -4.5;
         PinpointConstants.strafeX = -7.5;
         PinpointConstants.distanceUnit = DistanceUnit.INCH;
